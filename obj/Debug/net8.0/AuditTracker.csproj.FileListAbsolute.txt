@@ -1,0 +1,9 @@
+C:\TazYore\Repos\AuditTracker\obj\Debug\net8.0\AuditTracker.csproj.AssemblyReference.cache
+C:\TazYore\Repos\AuditTracker\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\TazYore\Repos\AuditTracker\obj\Debug\net8.0\AuditTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\TazYore\Repos\AuditTracker\obj\Debug\net8.0\AuditTracker.AssemblyInfoInputs.cache
+C:\TazYore\Repos\AuditTracker\obj\Debug\net8.0\AuditTracker.AssemblyInfo.cs
+C:\TazYore\Repos\AuditTracker\obj\Debug\net8.0\AuditTracker.csproj.CoreCompileInputs.cache
+C:\TazYore\Repos\AuditTracker\obj\Debug\net8.0\AuditTracker.MvcApplicationPartsAssemblyInfo.cs
+C:\TazYore\Repos\AuditTracker\obj\Debug\net8.0\AuditTracker.MvcApplicationPartsAssemblyInfo.cache
+C:\TazYore\Repos\AuditTracker\obj\Debug\net8.0\AuditTracker.sourcelink.json
